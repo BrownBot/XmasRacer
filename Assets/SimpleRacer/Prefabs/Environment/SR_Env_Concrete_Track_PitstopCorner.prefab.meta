@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 57cafe68e9f56924e880ae2a1f80d007
+timeCreated: 1464041194
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37490
+  packageName: Simple Racer - Cartoon Assets
+  packageVersion: 1.5
+  assetPath: Assets/SimpleRacer/Prefabs/Environment/SR_Env_Concrete_Track_PitstopCorner.prefab
+  uploadId: 622388

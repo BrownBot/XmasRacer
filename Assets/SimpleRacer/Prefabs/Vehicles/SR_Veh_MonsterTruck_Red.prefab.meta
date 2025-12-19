@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8bdbd6ed29100d04da370b3d67d3cd47
+timeCreated: 1464313830
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37490
+  packageName: Simple Racer - Cartoon Assets
+  packageVersion: 1.5
+  assetPath: Assets/SimpleRacer/Prefabs/Vehicles/SR_Veh_MonsterTruck_Red.prefab
+  uploadId: 622388

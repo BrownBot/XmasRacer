@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 193ed08b3513edd4c98a5e5e59023bb6
+timeCreated: 1464233383
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37490
+  packageName: Simple Racer - Cartoon Assets
+  packageVersion: 1.5
+  assetPath: Assets/SimpleRacer/Prefabs/Environment/SR_Env_Raised_Track_QuarterPipe_Inverted_Grey.prefab
+  uploadId: 622388

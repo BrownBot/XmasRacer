@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7c5cb282c5b381f4ca0eba6d0ab7bf50
+timeCreated: 1464041193
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37490
+  packageName: Simple Racer - Cartoon Assets
+  packageVersion: 1.5
+  assetPath: Assets/SimpleRacer/Prefabs/Environment/SR_Env_Dirt_Track_Corner_Wide.prefab
+  uploadId: 622388

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 87221dd195ac44d4d9bd298bd535cc7d
+timeCreated: 1467515519
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37490
+  packageName: Simple Racer - Cartoon Assets
+  packageVersion: 1.5
+  assetPath: Assets/SimpleRacer/Prefabs/Characters/SR_Character_Racer_Orange.prefab
+  uploadId: 622388

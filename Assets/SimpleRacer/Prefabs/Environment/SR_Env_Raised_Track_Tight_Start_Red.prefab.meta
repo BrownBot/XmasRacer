@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 68d4128eda3ada244aba2276d1c56022
+timeCreated: 1464233381
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37490
+  packageName: Simple Racer - Cartoon Assets
+  packageVersion: 1.5
+  assetPath: Assets/SimpleRacer/Prefabs/Environment/SR_Env_Raised_Track_Tight_Start_Red.prefab
+  uploadId: 622388

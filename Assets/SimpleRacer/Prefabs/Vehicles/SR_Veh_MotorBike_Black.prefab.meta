@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 664a7f8783bdc974aa19e69abf158b09
+timeCreated: 1464313836
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37490
+  packageName: Simple Racer - Cartoon Assets
+  packageVersion: 1.5
+  assetPath: Assets/SimpleRacer/Prefabs/Vehicles/SR_Veh_MotorBike_Black.prefab
+  uploadId: 622388

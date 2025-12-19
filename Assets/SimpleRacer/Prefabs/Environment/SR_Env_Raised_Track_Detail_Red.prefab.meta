@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ccf82612130e5164c96f0e44ad828abc
+timeCreated: 1464234105
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37490
+  packageName: Simple Racer - Cartoon Assets
+  packageVersion: 1.5
+  assetPath: Assets/SimpleRacer/Prefabs/Environment/SR_Env_Raised_Track_Detail_Red.prefab
+  uploadId: 622388

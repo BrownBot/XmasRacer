@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0acf7990addbc6d4fb288f3225fd99f3
+timeCreated: 1467515526
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37490
+  packageName: Simple Racer - Cartoon Assets
+  packageVersion: 1.5
+  assetPath: Assets/SimpleRacer/Prefabs/Characters/SR_Character_Racer_LightBlue.prefab
+  uploadId: 622388

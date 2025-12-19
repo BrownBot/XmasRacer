@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 72f4876f2c5e77440a942832f8140319
+timeCreated: 1464665588
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37490
+  packageName: Simple Racer - Cartoon Assets
+  packageVersion: 1.5
+  assetPath: Assets/SimpleRacer/Prefabs/Vehicles/SR_Veh_SprintCar_Orange.prefab
+  uploadId: 622388

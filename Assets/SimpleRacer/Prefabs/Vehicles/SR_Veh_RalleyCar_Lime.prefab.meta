@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a201f3c3992ae5e4c8317192415ccc23
+timeCreated: 1464313835
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37490
+  packageName: Simple Racer - Cartoon Assets
+  packageVersion: 1.5
+  assetPath: Assets/SimpleRacer/Prefabs/Vehicles/SR_Veh_RalleyCar_Lime.prefab
+  uploadId: 622388

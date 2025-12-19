@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cfc98a7989134e5468f41616a1f42e3e
+timeCreated: 1464665588
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37490
+  packageName: Simple Racer - Cartoon Assets
+  packageVersion: 1.5
+  assetPath: Assets/SimpleRacer/Prefabs/Vehicles/SR_Veh_DirtBike_Yellow.prefab
+  uploadId: 622388

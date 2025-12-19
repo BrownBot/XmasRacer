@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bf5cece9d356a2d4eaa1fadb519be21e
+timeCreated: 1491862780
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37490
+  packageName: Simple Racer - Cartoon Assets
+  packageVersion: 1.5
+  assetPath: Assets/SimpleRacer/Prefabs/Characters/SR_Character_RacerOpen_Black.prefab
+  uploadId: 622388

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 292b2e6b00c7c1043972451842b8d926
+timeCreated: 1464313830
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37490
+  packageName: Simple Racer - Cartoon Assets
+  packageVersion: 1.5
+  assetPath: Assets/SimpleRacer/Prefabs/Vehicles/SR_Veh_DerbyCar_Purple.prefab
+  uploadId: 622388

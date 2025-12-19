@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 324aa880d612fef45a086de2707d8b68
+timeCreated: 1467515514
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37490
+  packageName: Simple Racer - Cartoon Assets
+  packageVersion: 1.5
+  assetPath: Assets/SimpleRacer/Prefabs/Characters/SR_Character_Racer_Pink.prefab
+  uploadId: 622388

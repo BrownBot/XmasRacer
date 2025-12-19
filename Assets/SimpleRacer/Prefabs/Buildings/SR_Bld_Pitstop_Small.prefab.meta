@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6d8ba1ff93460b44b8a8e0a088d30937
+timeCreated: 1464041193
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37490
+  packageName: Simple Racer - Cartoon Assets
+  packageVersion: 1.5
+  assetPath: Assets/SimpleRacer/Prefabs/Buildings/SR_Bld_Pitstop_Small.prefab
+  uploadId: 622388

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 35bc7f2cb82822a4090742a8ee66a753
+timeCreated: 1464313846
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37490
+  packageName: Simple Racer - Cartoon Assets
+  packageVersion: 1.5
+  assetPath: Assets/SimpleRacer/Prefabs/Vehicles/SR_Veh_Kart_LightBlue.prefab
+  uploadId: 622388

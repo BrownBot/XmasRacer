@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ca1712c678a66b344938eda822f1b840
+timeCreated: 1464234104
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37490
+  packageName: Simple Racer - Cartoon Assets
+  packageVersion: 1.5
+  assetPath: Assets/SimpleRacer/Prefabs/Environment/SR_Env_Raised_Track_DetailCheckpoint_Blue.prefab
+  uploadId: 622388

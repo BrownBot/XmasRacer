@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 773a5c2f54bed9b40a341c7fb9744499
+timeCreated: 1464234483
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37490
+  packageName: Simple Racer - Cartoon Assets
+  packageVersion: 1.5
+  assetPath: Assets/SimpleRacer/Prefabs/Environment/SR_Env_Raised_Track_StartingLine_Yellow.prefab
+  uploadId: 622388

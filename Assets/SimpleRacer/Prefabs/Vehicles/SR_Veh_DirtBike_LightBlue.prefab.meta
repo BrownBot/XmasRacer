@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d49ac03b6b1c1a2468d1e16f976734d3
+timeCreated: 1464665587
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37490
+  packageName: Simple Racer - Cartoon Assets
+  packageVersion: 1.5
+  assetPath: Assets/SimpleRacer/Prefabs/Vehicles/SR_Veh_DirtBike_LightBlue.prefab
+  uploadId: 622388

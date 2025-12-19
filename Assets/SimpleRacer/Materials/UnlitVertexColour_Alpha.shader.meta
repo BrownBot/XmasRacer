@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d70549198377aa2419cca67488a91928
+timeCreated: 1464653175
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37490
+  packageName: Simple Racer - Cartoon Assets
+  packageVersion: 1.5
+  assetPath: Assets/SimpleRacer/Materials/UnlitVertexColour_Alpha.shader
+  uploadId: 622388

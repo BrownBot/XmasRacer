@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: befcec10088bcb6489559892806e4a63
+timeCreated: 1464313842
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37490
+  packageName: Simple Racer - Cartoon Assets
+  packageVersion: 1.5
+  assetPath: Assets/SimpleRacer/Prefabs/Vehicles/SR_Veh_Kart_Blue.prefab
+  uploadId: 622388

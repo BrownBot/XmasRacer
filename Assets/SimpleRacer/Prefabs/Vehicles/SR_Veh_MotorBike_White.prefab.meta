@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 72edeea5e1a9fc44dae13031fc9620c5
+timeCreated: 1464313832
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37490
+  packageName: Simple Racer - Cartoon Assets
+  packageVersion: 1.5
+  assetPath: Assets/SimpleRacer/Prefabs/Vehicles/SR_Veh_MotorBike_White.prefab
+  uploadId: 622388

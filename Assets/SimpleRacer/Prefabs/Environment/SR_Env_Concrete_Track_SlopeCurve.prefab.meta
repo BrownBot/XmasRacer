@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8c03ebf19a091aa44bdfa91d00e97fc8
+timeCreated: 1464056831
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37490
+  packageName: Simple Racer - Cartoon Assets
+  packageVersion: 1.5
+  assetPath: Assets/SimpleRacer/Prefabs/Environment/SR_Env_Concrete_Track_SlopeCurve.prefab
+  uploadId: 622388

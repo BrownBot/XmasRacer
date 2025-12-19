@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 227a3bde3be446b408655c9d0b19de0e
+timeCreated: 1464233385
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37490
+  packageName: Simple Racer - Cartoon Assets
+  packageVersion: 1.5
+  assetPath: Assets/SimpleRacer/Prefabs/Environment/SR_Env_Raised_Track_Ramp_Start_Blue.prefab
+  uploadId: 622388

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3875d34c04fc9c44a947e82e59110121
+timeCreated: 1464233387
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37490
+  packageName: Simple Racer - Cartoon Assets
+  packageVersion: 1.5
+  assetPath: Assets/SimpleRacer/Prefabs/Environment/SR_Env_Raised_Track_QuarterPipe_Yellow.prefab
+  uploadId: 622388

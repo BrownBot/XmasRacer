@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 00ad2dc10c53ec6489e0511eb8676ab6
+timeCreated: 1464313827
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37490
+  packageName: Simple Racer - Cartoon Assets
+  packageVersion: 1.5
+  assetPath: Assets/SimpleRacer/Prefabs/Vehicles/SR_Veh_MuscleSports_LightBlue.prefab
+  uploadId: 622388

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cda7c4d5ffb811d43966bc10e823bcc2
+timeCreated: 1463710555
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37490
+  packageName: Simple Racer - Cartoon Assets
+  packageVersion: 1.5
+  assetPath: Assets/SimpleRacer/Prefabs/FX/FX_WaterSplash.prefab
+  uploadId: 622388

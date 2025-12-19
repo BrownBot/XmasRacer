@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b1e613f737b7f5a4bb7def30717edc96
+timeCreated: 1464313841
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37490
+  packageName: Simple Racer - Cartoon Assets
+  packageVersion: 1.5
+  assetPath: Assets/SimpleRacer/Prefabs/Vehicles/SR_Veh_QuadBike_Purple.prefab
+  uploadId: 622388

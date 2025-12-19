@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a32909a80965cce479feefc5e84260e2
+timeCreated: 1464313830
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37490
+  packageName: Simple Racer - Cartoon Assets
+  packageVersion: 1.5
+  assetPath: Assets/SimpleRacer/Prefabs/Vehicles/SR_Veh_RalleyCar_Purple.prefab
+  uploadId: 622388

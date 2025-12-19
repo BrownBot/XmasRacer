@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b99e3be02f150614bbafd136eb01c613
+timeCreated: 1464313830
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37490
+  packageName: Simple Racer - Cartoon Assets
+  packageVersion: 1.5
+  assetPath: Assets/SimpleRacer/Prefabs/Vehicles/SR_Veh_MotorBike_Orange.prefab
+  uploadId: 622388

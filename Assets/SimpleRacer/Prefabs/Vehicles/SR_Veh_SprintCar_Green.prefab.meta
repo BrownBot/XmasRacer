@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f56a9cfb154ae144fa8a269a94b12e53
+timeCreated: 1464665587
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37490
+  packageName: Simple Racer - Cartoon Assets
+  packageVersion: 1.5
+  assetPath: Assets/SimpleRacer/Prefabs/Vehicles/SR_Veh_SprintCar_Green.prefab
+  uploadId: 622388

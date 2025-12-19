@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a6e2b102566787240b2ae43b665b72bd
+timeCreated: 1464313832
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37490
+  packageName: Simple Racer - Cartoon Assets
+  packageVersion: 1.5
+  assetPath: Assets/SimpleRacer/Prefabs/Vehicles/SR_Veh_Kart_Orange.prefab
+  uploadId: 622388

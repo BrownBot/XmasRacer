@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bab55e12a4d0bf245a1fc27a9f77af56
+timeCreated: 1463710642
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37490
+  packageName: Simple Racer - Cartoon Assets
+  packageVersion: 1.5
+  assetPath: Assets/SimpleRacer/Prefabs/FX/FX_Explosion_Rubble.prefab
+  uploadId: 622388

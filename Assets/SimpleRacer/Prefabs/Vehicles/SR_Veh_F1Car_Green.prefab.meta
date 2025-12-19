@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 99b23c9459861644fa7bf32915601909
+timeCreated: 1464313828
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37490
+  packageName: Simple Racer - Cartoon Assets
+  packageVersion: 1.5
+  assetPath: Assets/SimpleRacer/Prefabs/Vehicles/SR_Veh_F1Car_Green.prefab
+  uploadId: 622388

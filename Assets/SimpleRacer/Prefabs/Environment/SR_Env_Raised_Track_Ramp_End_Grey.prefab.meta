@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6286b6b0fc315a743be8759182f48706
+timeCreated: 1464233382
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37490
+  packageName: Simple Racer - Cartoon Assets
+  packageVersion: 1.5
+  assetPath: Assets/SimpleRacer/Prefabs/Environment/SR_Env_Raised_Track_Ramp_End_Grey.prefab
+  uploadId: 622388

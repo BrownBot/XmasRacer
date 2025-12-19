@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0b74f2e12ea52ed4f882cf9069a8e94f
+timeCreated: 1464313835
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37490
+  packageName: Simple Racer - Cartoon Assets
+  packageVersion: 1.5
+  assetPath: Assets/SimpleRacer/Prefabs/Vehicles/SR_Veh_Kart_Red.prefab
+  uploadId: 622388

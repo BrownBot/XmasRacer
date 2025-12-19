@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4f04228958dd7d54c9aef708860ff18c
+timeCreated: 1464233670
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37490
+  packageName: Simple Racer - Cartoon Assets
+  packageVersion: 1.5
+  assetPath: Assets/SimpleRacer/Prefabs/Environment/SR_Env_Raised_Track_Pillar_Grey.prefab
+  uploadId: 622388

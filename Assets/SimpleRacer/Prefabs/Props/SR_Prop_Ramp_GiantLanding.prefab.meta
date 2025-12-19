@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4ee46dcc342ff754399f9842313781ba
+timeCreated: 1464311387
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37490
+  packageName: Simple Racer - Cartoon Assets
+  packageVersion: 1.5
+  assetPath: Assets/SimpleRacer/Prefabs/Props/SR_Prop_Ramp_GiantLanding.prefab
+  uploadId: 622388

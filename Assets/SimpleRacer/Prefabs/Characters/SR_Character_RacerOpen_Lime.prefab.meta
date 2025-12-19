@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1412d22300a390d47a1ac46176382d11
+timeCreated: 1491862788
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37490
+  packageName: Simple Racer - Cartoon Assets
+  packageVersion: 1.5
+  assetPath: Assets/SimpleRacer/Prefabs/Characters/SR_Character_RacerOpen_Lime.prefab
+  uploadId: 622388

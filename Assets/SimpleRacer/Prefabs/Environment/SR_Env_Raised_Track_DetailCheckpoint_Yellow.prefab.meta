@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ff23a37d5bb509d4dbf7b2907029420b
+timeCreated: 1464234105
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37490
+  packageName: Simple Racer - Cartoon Assets
+  packageVersion: 1.5
+  assetPath: Assets/SimpleRacer/Prefabs/Environment/SR_Env_Raised_Track_DetailCheckpoint_Yellow.prefab
+  uploadId: 622388

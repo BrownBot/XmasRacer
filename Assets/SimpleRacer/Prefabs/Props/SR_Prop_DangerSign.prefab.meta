@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f5ce0df76ddfe3741b44eecec4ded6e5
+timeCreated: 1464242068
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37490
+  packageName: Simple Racer - Cartoon Assets
+  packageVersion: 1.5
+  assetPath: Assets/SimpleRacer/Prefabs/Props/SR_Prop_DangerSign.prefab
+  uploadId: 622388

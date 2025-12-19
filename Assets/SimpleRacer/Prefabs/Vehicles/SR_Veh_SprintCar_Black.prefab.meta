@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3c01b65658a401944a75d0de41281f79
+timeCreated: 1464665586
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37490
+  packageName: Simple Racer - Cartoon Assets
+  packageVersion: 1.5
+  assetPath: Assets/SimpleRacer/Prefabs/Vehicles/SR_Veh_SprintCar_Black.prefab
+  uploadId: 622388

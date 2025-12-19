@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a32afad12a8298e4a9dd793a320b4bdd
+timeCreated: 1464313838
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37490
+  packageName: Simple Racer - Cartoon Assets
+  packageVersion: 1.5
+  assetPath: Assets/SimpleRacer/Prefabs/Vehicles/SR_Veh_StockCar_Black.prefab
+  uploadId: 622388

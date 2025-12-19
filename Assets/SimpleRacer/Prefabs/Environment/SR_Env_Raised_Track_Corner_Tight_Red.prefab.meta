@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5c87721373ace504f9f03d6febcda51b
+timeCreated: 1464233386
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37490
+  packageName: Simple Racer - Cartoon Assets
+  packageVersion: 1.5
+  assetPath: Assets/SimpleRacer/Prefabs/Environment/SR_Env_Raised_Track_Corner_Tight_Red.prefab
+  uploadId: 622388

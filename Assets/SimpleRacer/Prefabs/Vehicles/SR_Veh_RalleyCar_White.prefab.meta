@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a96c9f7bcef67e04589e4e57ee4f1c74
+timeCreated: 1464313836
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37490
+  packageName: Simple Racer - Cartoon Assets
+  packageVersion: 1.5
+  assetPath: Assets/SimpleRacer/Prefabs/Vehicles/SR_Veh_RalleyCar_White.prefab
+  uploadId: 622388

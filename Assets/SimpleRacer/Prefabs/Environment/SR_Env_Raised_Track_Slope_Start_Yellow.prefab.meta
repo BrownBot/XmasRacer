@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bc3b4f0bccd940243a21523730533194
+timeCreated: 1464233382
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37490
+  packageName: Simple Racer - Cartoon Assets
+  packageVersion: 1.5
+  assetPath: Assets/SimpleRacer/Prefabs/Environment/SR_Env_Raised_Track_Slope_Start_Yellow.prefab
+  uploadId: 622388

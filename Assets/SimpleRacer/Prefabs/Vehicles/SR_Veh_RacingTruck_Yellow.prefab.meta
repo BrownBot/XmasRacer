@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 083a28f4e71680341937dbc9f8783e49
+timeCreated: 1464313839
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37490
+  packageName: Simple Racer - Cartoon Assets
+  packageVersion: 1.5
+  assetPath: Assets/SimpleRacer/Prefabs/Vehicles/SR_Veh_RacingTruck_Yellow.prefab
+  uploadId: 622388

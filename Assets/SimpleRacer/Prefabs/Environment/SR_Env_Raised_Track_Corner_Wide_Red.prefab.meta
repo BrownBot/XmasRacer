@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e3acf42dc0c9b2b48b7c55e7f90f62c8
+timeCreated: 1464233383
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37490
+  packageName: Simple Racer - Cartoon Assets
+  packageVersion: 1.5
+  assetPath: Assets/SimpleRacer/Prefabs/Environment/SR_Env_Raised_Track_Corner_Wide_Red.prefab
+  uploadId: 622388

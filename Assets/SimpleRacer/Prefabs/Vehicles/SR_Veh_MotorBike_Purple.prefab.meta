@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ac15d2574a3b71b4eb1290addd052ac5
+timeCreated: 1464313839
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37490
+  packageName: Simple Racer - Cartoon Assets
+  packageVersion: 1.5
+  assetPath: Assets/SimpleRacer/Prefabs/Vehicles/SR_Veh_MotorBike_Purple.prefab
+  uploadId: 622388

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: edec5a19e5b8a3a418d5aa22fcf32239
+timeCreated: 1464041194
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37490
+  packageName: Simple Racer - Cartoon Assets
+  packageVersion: 1.5
+  assetPath: Assets/SimpleRacer/Prefabs/Props/SR_Prop_Barrier_01.prefab
+  uploadId: 622388

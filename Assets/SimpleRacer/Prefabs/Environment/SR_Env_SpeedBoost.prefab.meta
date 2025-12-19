@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0edf9ad46a17b5047b3c9734849a3e79
+timeCreated: 1464056833
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37490
+  packageName: Simple Racer - Cartoon Assets
+  packageVersion: 1.5
+  assetPath: Assets/SimpleRacer/Prefabs/Environment/SR_Env_SpeedBoost.prefab
+  uploadId: 622388

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bc232dace8dd23a47a803e383a0a2c1c
+timeCreated: 1464233387
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37490
+  packageName: Simple Racer - Cartoon Assets
+  packageVersion: 1.5
+  assetPath: Assets/SimpleRacer/Prefabs/Environment/SR_Env_Raised_Track_Circle_Slope_Red.prefab
+  uploadId: 622388

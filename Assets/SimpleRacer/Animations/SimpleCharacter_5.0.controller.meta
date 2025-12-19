@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1de385df2ff713a41adfcbbb63b8af91
+timeCreated: 1442747533
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37490
+  packageName: Simple Racer - Cartoon Assets
+  packageVersion: 1.5
+  assetPath: Assets/SimpleRacer/Animations/SimpleCharacter_5.0.controller
+  uploadId: 622388

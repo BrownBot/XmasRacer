@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 91eacea55c07385469355e490bf57606
+timeCreated: 1464233382
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37490
+  packageName: Simple Racer - Cartoon Assets
+  packageVersion: 1.5
+  assetPath: Assets/SimpleRacer/Prefabs/Environment/SR_Env_Raised_Track_Slope_Corner_Blue.prefab
+  uploadId: 622388

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d20e7b9efa9234448bb2243e0fe53828
+timeCreated: 1464313842
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37490
+  packageName: Simple Racer - Cartoon Assets
+  packageVersion: 1.5
+  assetPath: Assets/SimpleRacer/Prefabs/Vehicles/SR_Veh_F1Car_Orange.prefab
+  uploadId: 622388

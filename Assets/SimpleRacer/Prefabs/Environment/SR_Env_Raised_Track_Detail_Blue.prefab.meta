@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5b9b44ddc205f7c47bf8217caea8820b
+timeCreated: 1464234104
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37490
+  packageName: Simple Racer - Cartoon Assets
+  packageVersion: 1.5
+  assetPath: Assets/SimpleRacer/Prefabs/Environment/SR_Env_Raised_Track_Detail_Blue.prefab
+  uploadId: 622388

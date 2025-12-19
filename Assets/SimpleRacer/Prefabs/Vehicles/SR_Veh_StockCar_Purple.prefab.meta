@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 081be3a922d97654b876a6eb415b664a
+timeCreated: 1464313834
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37490
+  packageName: Simple Racer - Cartoon Assets
+  packageVersion: 1.5
+  assetPath: Assets/SimpleRacer/Prefabs/Vehicles/SR_Veh_StockCar_Purple.prefab
+  uploadId: 622388

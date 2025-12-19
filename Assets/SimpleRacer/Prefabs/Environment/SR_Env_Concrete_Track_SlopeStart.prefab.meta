@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0c95016d969c6f84aa39d52f7427a870
+timeCreated: 1464056832
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37490
+  packageName: Simple Racer - Cartoon Assets
+  packageVersion: 1.5
+  assetPath: Assets/SimpleRacer/Prefabs/Environment/SR_Env_Concrete_Track_SlopeStart.prefab
+  uploadId: 622388

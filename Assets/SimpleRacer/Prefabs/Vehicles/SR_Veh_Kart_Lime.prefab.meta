@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 59332036bc9d00847a1ddb4f459363a8
+timeCreated: 1464313828
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37490
+  packageName: Simple Racer - Cartoon Assets
+  packageVersion: 1.5
+  assetPath: Assets/SimpleRacer/Prefabs/Vehicles/SR_Veh_Kart_Lime.prefab
+  uploadId: 622388

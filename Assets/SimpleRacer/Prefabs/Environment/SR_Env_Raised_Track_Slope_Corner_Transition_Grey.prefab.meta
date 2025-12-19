@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 61e10eee55546724da27d6f2f2d50fa4
+timeCreated: 1464233385
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37490
+  packageName: Simple Racer - Cartoon Assets
+  packageVersion: 1.5
+  assetPath: Assets/SimpleRacer/Prefabs/Environment/SR_Env_Raised_Track_Slope_Corner_Transition_Grey.prefab
+  uploadId: 622388
